@@ -1,0 +1,29 @@
+{
+  "server_name": "OTCTOPZERA",
+  "current_version": "1.0.0",
+  "description": "Launcher oficial do OTCTOPZERA",
+  "github_username": "brbrsuarez",
+  "github_repository": "otctopzera",
+  "client_zip_filename": "OTCTopzera-Client.zip",
+  "auto_install_updates": true,
+  "enable_auto_update": true,
+  "auto_install_launcher_updates": false,
+  "launcher_github_username": "brbrsuarez",
+  "launcher_github_repository": "otctopzera",
+  "current_launcher_version": "1.0.0",
+  "protected_folders": [
+    "minimap",
+    "conf",
+    "characterdata",
+    "screenshots"
+  ],
+  "enable_minimap_downloads": false,
+  "custom_minimaps": {},
+  "version": "1.0.0",
+  "release_tag": "v1.0.0",
+  "zip_file": "OTCTopzera-Client.zip",
+  "download_link": "https://github.com/brbrsuarez/otctopzera/releases/download/v1.0.0/OTCTopzera-Client.zip",
+  "check_for_updates_on_startup": true,
+  "show_changelog": true,
+  "backup_before_update": true
+}
