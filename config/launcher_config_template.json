@@ -4,7 +4,7 @@
   "description": "Launcher oficial do OTCTOPZERA",
   "github_username": "brbrsuarez",
   "github_repository": "otctopzera",
-  "client_zip_filename": "OTCTopzera-Client.zip",
+  "client_zip_filename": "Client.zip",
   "auto_install_updates": true,
   "enable_auto_update": true,
   "auto_install_launcher_updates": false,
